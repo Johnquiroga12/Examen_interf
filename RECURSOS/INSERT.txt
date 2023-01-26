@@ -1,0 +1,18 @@
+INSERT INTO `empleado` (`id_empleado`, `apellido`, `dias_trabajo`, `direcion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('3', 'LOJA', '23', 'CUENCA', '09-12-1889', 'MARCO', 'TRABAJADOR', '1234', '01122334');
+
+INSERT INTO `empleado` (`id_empleado`, `apellido`, `dias_trabajo`, `direcion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('4', 'LOJA', '23223', 'CUENCA', '09-12-1895', 'MMARCIA', 'TRABAJADOR', '123444', '01122334');
+
+INSERT INTO `empleado` (`id_empleado`, `apellido`, `dias_trabajo`, `direcion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('5', 'LOJA', '23', 'CUENCA', '09-12-1889', 'FRANCO', 'TRABAJADOR', '1234', '01122334');
+
+
+INSERT INTO `empleado` (`id_empleado`, `apellido`, `dias_trabajo`, `direcion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('6', 'LOJA', '23', 'CUENCA', '09-12-1889', 'GERMANIA', 'TRABAJADOR', '1234', '01122334');
+
+
+INSERT INTO `empleado` (`id_empleado`, `apellido`, `dias_trabajo`, `direcion`, `fecha_nacimiento`, `nombre`, `observacion`, `sueldo`, `telefono`) VALUES ('7', 'LOJA', '23', 'CUENCA', '09-12-1889', 'LORENA', 'TRABAJADOR', '1234', '01199896674');
+
+
+
+
+LINK_EVIDENCIA:
+
+https://drive.google.com/file/d/11zCN0ac6WvSwYimTGc096AAdXI4CTOPT/view?usp=sharing
